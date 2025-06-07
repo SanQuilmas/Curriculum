@@ -8,6 +8,12 @@
 
 ---
 
+## 💼 Professional Summary
+
+Detail-oriented Software Engineer with hands-on experience designing, developing, and maintaining full-stack applications for both web and desktop environments. Skilled in crafting scalable, responsive, and performant solutions using modern technologies across frontend and backend stacks. Passionate about clean code, usability, and continuous learning.
+
+---
+
 ## 🎓 Education
 
 **Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI) - UDG**  
@@ -73,9 +79,12 @@ Java backend and TypeScript/React frontend, containerized with Podman and Postgr
 
 ---
 
-## 🛠 Technologies
+## 🛠 Skills & Technologies
 
-- **Languages:** Spanish (Native), English (Native)
-- **Programming:** JavaScript/TypeScript, HTML/CSS, Java, Python, Rust
-- **Tools:** Git, MySQL, LaTeX, React, Next.js, Vite, Docker/Podman
-- **Platforms:** Linux, Web, Windows
+- **Languages**: Spanish (Native), English (Professional)
+- **Programming**: JavaScript/TypeScript, HTML/CSS, Java, Python, Rust
+- **Frontend**: React, Next.js, Vite
+- **Backend**: Node.js, Spring Boot, Python, Rust
+- **Databases**: PostgreSQL, MySQL
+- **DevOps & Tools**: Docker, Podman, Git, Kafka, LaTeX
+- **Platforms**: Linux, Windows, Web
